@@ -1,0 +1,17 @@
+ArcVault - from collection to strategy
+
+ArcVault shows your MTG Arena collection, sets, wildcards and decks on your PC, and keeps them up to date while you play.
+
+Before you install:
+
+- ArcVault reads your collection from MTG Arena's memory while the game runs. It only reads: it never changes the game, never sends anything anywhere, and gives no advantage in a match.
+- Wizards of the Coast's terms of use (General Terms, section 2.2) don't allow third-party software that reads game data, and the stated penalty can include suspending your account. Tools that work this way have been used openly for years without action that we know of, but the risk is yours to weigh.
+- Everything stays on your PC. There's no account and nothing is uploaded. The only network use is downloading public card data from Scryfall.
+
+Where things go:
+
+- The program: your user folder (no administrator rights needed), unless you choose another folder.
+- Your collection files and history: Documents\ArcVault. The uninstaller never deletes these.
+- If ArcVault is running, Setup closes it first.
+
+Unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. (c)Wizards of the Coast LLC.

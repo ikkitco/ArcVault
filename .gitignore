@@ -1,0 +1,38 @@
+# ArcVault: what stays out of the repo
+
+# Your collection data (personal, rebuilt by every export)
+mtga_collection.csv
+mtga_collection_full.csv
+mtga_collection.txt
+mtga_inventory.csv
+arc_*.csv
+arc_*.txt
+exports/
+snapshots/
+changes/
+decks/
+
+# Working files, rebuilt automatically
+cache/
+*.log
+arcvault_settings.json
+__pycache__/
+*.pyc
+
+# The reader lives in its own fork (frcaton/mtga-tracker-daemon + our patch)
+daemon/
+
+# Old copies and leftovers (git keeps the history now)
+*_backup.py
+MTGA Collection Viewer.html
+New folder/
+*.lnk
+
+# Build output (installer, later)
+build/
+dist/
+*.exe
+
+# Kept out of the public repo: the old private history, and files from other projects
+.git-private/
+Burndecks Exchange*.html
