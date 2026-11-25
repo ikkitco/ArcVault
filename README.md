@@ -4,7 +4,7 @@
 
 ArcVault is a free Windows app for MTG Arena players. It shows your whole Arena collection on your PC and keeps it up to date while you play: sets, wildcards, decks, engine ideas and your history over time.
 
-**[Download the latest release](https://github.com/ikkitco/ArcVault/releases/latest)** · Windows 10 or 11 (64-bit) · Free
+**[Download ArcVault](https://github.com/ikkitco/ArcVault/releases)** · Windows 10 or 11 (64-bit) · Free
 
 > **Before you install:** ArcVault reads your collection from MTG Arena's memory while the game runs. Wizards of the Coast's terms don't allow third-party software that reads game data. Please read [Is this allowed by Wizards?](#is-this-allowed-by-wizards) before you decide.
 
